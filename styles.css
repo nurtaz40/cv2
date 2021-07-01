@@ -1,0 +1,217 @@
+body {
+  background-color: #ffffff;
+  /* margin: 0px; */
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+  background-color: #fff5eb;
+}
+/*.bottom-container {
+  height: 200px;
+  width: 200px;
+  background-color: cadetblue;
+}
+*/
+.heading {
+  width: 20%;
+  text-align: center;
+  margin: 0 auto 0 auto;
+}
+.Title {
+  height: auto;
+  width: auto;
+
+  text-align: center;
+}
+/* -----------------------------------------------------------------------------------------------Picture-------------------------------------------------------------------------- */
+.pic-title {
+  height: 20%;
+  width: 50%;
+}
+.Dexoys {
+  height: 30%;
+  width: 20%;
+
+  position: absolute;
+  top: 80%;
+  right: 60%;
+  bottom: 0px;
+}
+.Mewto {
+  height: 50%;
+  width: 20%;
+
+  position: absolute;
+  top: 200px;
+  right: 200px;
+}
+.me {
+  height: 250px;
+  width: 200px;
+  margin: 0 auto;
+  display: block;
+  position: relative;
+  bottom: 90px;
+}
+/* -----------------------------------------------------------------------------------------------Picture-------------------------------------------------------------------------- */
+h1 {
+  margin: 0px;
+  color:#66BFBF;
+}
+h1,
+h2 {
+  font-family: "Megrim", cursive;
+}
+h2{
+  font-size: 4rem;
+  color:#66BFBF;
+}
+.Hello{
+  color:#66BFBF;
+}
+#iampokemon {
+  font-size: 5.625em;
+}
+#bio{
+  color: #40514E
+  ;
+  font-size: 2rem;
+}
+p {
+  font-family: 'Merriweather', serif;
+  color: #40514E
+  ;
+  font-size: 1.7rem;
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:#66BFBF;
+  font-size: 2rem;
+}
+#p-title {
+  font-family: "Homemade Apple", cursive;
+  font-weight: normal;
+}
+.middle-container {
+  text-align: center;
+  
+}
+hr{
+  border-style: dotted;
+  height: 0px;
+  width: 4%;
+  border-width: 10px;
+  /* border-radius: 50%; */
+  border-top-style:none ;
+  color: #dcfafa
+  ;
+  margin: auto auto 120px auto;
+}
+
+.bio-text{
+  width: 30%;
+  margin: 0 auto 120px auto ;
+}
+
+.skill{
+  width: 50%;
+  height: 120%;
+  margin: 120px auto 120px auto;
+  padding-bottom: 4rem;
+  text-align: ;
+  line-height: 2.2;
+}
+.code{
+  height: 25%;
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+  margin-top: 70px;
+  padding-bottom: 80px;
+}
+.web-dev{
+  padding-top: 1px;
+  margin-top: 15px;
+  text-align: left;
+}
+.subway
+{
+  padding-top: 1px;
+  margin-top: 15px;
+  text-align: left;
+}
+.skill-h3{
+  margin: 0px;
+}
+.burgerbun{
+  height: 25%;
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+  margin-top: 100px;
+  margin-bottom: 300px;
+  padding-bottom: 1em;
+
+}
+#skillheading{
+  margin-bottom: 200px;
+
+}
+table{
+  width: 50%;
+  margin: auto;
+  height: 120%;
+  margin: 120px auto 120px auto;
+  padding-bottom: 4rem;
+  text-align: left;
+  line-height: 2.5;
+}
+.burgerbun1{
+  height: auto;
+  width: auto;
+  
+}
+#webdevheading3{
+  width: 50%;
+  margin: 50px auto 20px auto;
+}
+#chathead{
+  margin-bottom: 60px;
+}
+.goodbye{
+  width: 38%;
+  height: 100%;
+  margin: 55px auto 0px auto;
+  text-align: ;
+  line-height: 2.2;
+}
+#goodbye-2{
+  width: 50%;
+  text-align: center;
+  margin: auto;
+  line-height: 2.1;
+  padding-bottom: 100px;
+
+}
+.bottom-container{
+  text-align: center;
+  background-color: #66BFBF;
+  padding: 70px;
+}
+.footer-link{
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+  font-size: 1.7rem;
+  margin: 50px;
+  text-decoration: none;
+  padding-bottom: 50px;
+}
+#surname{
+  font-size: 2rem;
+  color: #EAF6F6
+  ;
+  font-family: 'Indie Flower', cursive;
+}
